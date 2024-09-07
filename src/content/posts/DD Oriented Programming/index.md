@@ -3,7 +3,7 @@ title: DD Oriented Programming
 published: 2024-09-07
 description: ''
 image: ''
-tags: []
+tags: ["Process Injection", "Python", "Binary Exploitation"]
 category: ''
 draft: false 
 language: ''
