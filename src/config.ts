@@ -50,8 +50,7 @@ export const profileConfig: ProfileConfig = {
     },
     {
       name: 'About',
-      icon: '',
-      url: 'https://ninpwn.vercel.app/about/',
+      url: 'https://ninpwn.vercel.app/about/'
     }
   ],
 }
