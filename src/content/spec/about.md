@@ -1,11 +1,9 @@
 # About
----
 I'm a 22-year-old from Israel with a passion for vulnerability research. Over
 the past four years, I've focused on exploit research and development,
 specializing in embedded Linux environments.
 
 # Experience
----
 ## REDACTED | Vulnerability Reseacher
 Jan, 2023 - PRESENT 
 - Researched embedded systems for potential vulnerabilities
@@ -26,7 +24,6 @@ market for specific product categories
 - Performed cybersecurity R&D researches
 
 # Education
----
 ## Open Security Training / C-Family Vulnerabilities | 2024
 Honed my C & C++ static analysis skills by analyzing CVE’s of sophisticated
 operating systems and software (IOS, Android, Windows, Chrome etcetera).
@@ -41,4 +38,4 @@ files.
 ## Arizona State University / CSE-365 | 2023
 The course covered subjects such as web server programming in x86-64
 ASM, reverse engineering, MITM attacks, cryptography, web vulnerabilities
-and memory corruption concepts.
+and memory corruption concepts.s
