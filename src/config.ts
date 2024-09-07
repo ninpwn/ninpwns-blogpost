@@ -50,7 +50,7 @@ export const profileConfig: ProfileConfig = {
     },
     {
       name: 'About',
-      icon: 'fa6-solid:info-circle',  // Example of an "info" icon from FontAwesome
+      icon: 'fa6-solid:circle-info',  // Corrected icon name
       url: 'https://ninpwn.vercel.app/about/',
     }
   ],
