@@ -120,10 +120,7 @@ void init_library() {
 ```
 
 # The PoC's PoC
-<video controls>
-  <source src="src/content/posts/DD Oriented Programming/output_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/b179f8a8-7e86-417e-a9db-0fa3bad2bbe0
 
 # TODO
 This is a conceptual TODO as I don't intend on maintaining this project:
