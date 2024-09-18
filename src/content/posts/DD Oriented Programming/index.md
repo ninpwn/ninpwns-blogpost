@@ -120,7 +120,11 @@ void init_library() {
 ```
 
 # The PoC's PoC
-![](output_video.mp4)
+<video controls>
+  <source src="output_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 # TODO
 This is a conceptual TODO as I don't intend on maintaining this project:
 - Restoring the BSS cave with null bytes.
