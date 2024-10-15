@@ -50,8 +50,13 @@ export const profileConfig: ProfileConfig = {
     },
     {
       name: 'About',
-      icon: 'fa6-solid:circle-info',  // Corrected icon name
+      icon: 'fa6-solid:circle-info',
       url: 'https://ninpwn.vercel.app/about/',
+    },
+    {
+      name: 'Email',
+      icon: 'fa6-solid:envelope',
+      url: 'ninpwn00@gmail.com',
     }
   ],
 }
