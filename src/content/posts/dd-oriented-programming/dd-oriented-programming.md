@@ -118,8 +118,11 @@ void init_library() {
 ```
 
 # The PoC's PoC
+<video width="320" height="240" controls>
+  <source src="./output_video.mp4" type="video/mp4">
+</video>
 
-https://github.com/user-attachments/assets/b179f8a8-7e86-417e-a9db-0fa3bad2bbe0
+
 # TODO
 This is a conceptual TODO as I don't intend on maintaining this project:
 - Restoring the BSS cave with null bytes.
