@@ -37,8 +37,13 @@ export const navBarConfig: NavBarConfig = {
   links: [
     {
       name: 'About',
-      icon: 'fa6-solid:circle-info',
+      icon: '',
       url: '/about/',
+    },
+    {
+      name: 'CVE-List',
+      icon: '',
+      url: '/cve-list/',
     },
   ],
 }
