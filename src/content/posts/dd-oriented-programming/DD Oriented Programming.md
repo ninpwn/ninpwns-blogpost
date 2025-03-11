@@ -1,3 +1,13 @@
+---
+title: DD Oriented Programming
+published: 2024-09-15
+description:
+image: 
+tags: [Linux Internals, Process Injection, Python]
+category: Binary Exploitation
+draft: false
+---
+
 # Prologue
 It all started when I got fed up with the typical Linux process injection PoCs that relied on either ``ptrace()`` or ``LD_PRELOAD``. I wanted something different, something a bit more intriguing—a more generic way to inject arbitrary code by using a malicious shared object library. I realized that the ``procfs`` memory-related entries with r/w permissions left an open door to quite literally pwn and own the process, so I set out to prove it. This PoC was born on an Ubuntu 22.04 x64 system, and it’s here to show just how much you can do when you get creative with ``procfs``.
 ## Motivation
