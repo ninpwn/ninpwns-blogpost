@@ -118,8 +118,8 @@ void init_library() {
 ```
 
 # The PoC's PoC
-<video width="640" height="360" controls>
-  <source src="./output_video.mp4" type="video/mp4">
+<video controls>
+  <source src="https://github.com/user-attachments/assets/b179f8a8-7e86-417e-a9db-0fa3bad2bbe0" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
