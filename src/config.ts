@@ -40,7 +40,11 @@ export const siteConfig: SiteConfig = {
 export const navBarConfig: NavBarConfig = {
   links: [
     LinkPreset.About,
-    LinkPreset.Cvelist,
+    {
+      name:'CVE-List',
+      url:'/cve-list',
+      external: false,
+    },
   ],
 }
 
@@ -50,9 +54,9 @@ export const profileConfig: ProfileConfig = {
   bio: 'Cyber Security Researcher',
   links: [
     {
-      name: 'CVE-List',
-      icon: '',
-      url: '/cve-list',
+      name: 'GitHub',
+      icon: 'fa6-brands:github',
+      url: 'https://github.com/ninpwn/',
     },
   ],
 }
