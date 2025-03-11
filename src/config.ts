@@ -43,6 +43,10 @@ export const navBarConfig: NavBarConfig = {
       name: 'CVE-List',
       url: '/cve-list/',
     },
+    {
+      name: 'Archive',
+      url: '/archive/',
+    },
   ],
 }
 
