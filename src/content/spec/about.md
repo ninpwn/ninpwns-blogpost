@@ -1,9 +1,8 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+I'm a 22-year-old from Czechia with a passion for vulnerability research. Over
+the past four years, I've focused on exploit research and development,
+specializing in embedded Linux environments.
 
-::github{repo="saicaca/fuwari"}
+# Contact Me
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+Email: ninpwn00@gmail.com
