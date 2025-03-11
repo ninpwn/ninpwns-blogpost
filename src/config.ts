@@ -38,7 +38,7 @@ export const navBarConfig: NavBarConfig = {
     {
       name: 'About',
       icon: 'fa6-solid:circle-info',
-      url: 'https://ninpwn.vercel.app/about/',
+      url: '/about/',
     },
   ],
 }
