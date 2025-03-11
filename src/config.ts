@@ -50,9 +50,9 @@ export const profileConfig: ProfileConfig = {
   bio: 'Cyber Security Researcher',
   links: [
     {
-      name: 'GitHub',
-      icon: 'fa6-brands:github',
-      url: 'https://github.com/ninpwn/',
+      name: 'CVE-List',
+      icon: '',
+      url: '/cve-list',
     },
   ],
 }
