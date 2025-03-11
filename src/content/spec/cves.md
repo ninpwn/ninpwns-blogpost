@@ -1,6 +1,6 @@
-# CVES
-## 2025
-### libzvbi
+# Acknowledged CVES
+**2025**
+**libzvbi**
 - CVE-2025-2177
 - CVE-2025-2176
 - CVE-2025-2175
