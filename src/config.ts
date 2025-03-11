@@ -37,12 +37,10 @@ export const navBarConfig: NavBarConfig = {
   links: [
     {
       name: 'About',
-      icon: '',
       url: '/about/',
     },
     {
       name: 'CVE-List',
-      icon: '',
       url: '/cve-list/',
     },
   ],
