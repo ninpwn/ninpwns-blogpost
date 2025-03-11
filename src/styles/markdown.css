@@ -89,7 +89,7 @@
     /* New specific entries for header new line heights */
     .header-spacing {
         h1, h2, h3, h4, h5, h6 {
-            @apply mt-2 mb-1 leading-tight;
+            @apply mt-1 mb-1 leading-tight;
         }
     }
 }
