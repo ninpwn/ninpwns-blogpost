@@ -41,8 +41,8 @@ export const navBarConfig: NavBarConfig = {
   links: [
     LinkPreset.About,
     {
-      name:'CVE-List',
-      url:'/cve-list',
+      name:'CVES',
+      url:'/cves/',
       external: false,
     },
   ],

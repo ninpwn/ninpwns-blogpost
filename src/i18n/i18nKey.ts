@@ -1,7 +1,7 @@
 enum I18nKey {
   home = 'home',
   about = 'about',
-  cve_list = 'cve-list',
+  cves = 'cves',
   search = 'search',
 
   tags = 'tags',

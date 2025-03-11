@@ -11,8 +11,8 @@ export const LinkPresets: { [key in LinkPreset]: NavBarLink } = {
     name: i18n(I18nKey.about),
     url: '/about/',
   },
-  [LinkPreset.Cvelist]: {
-    name: i18n(I18nKey.cve_list),
-    url: '/cve-list/',
+  [LinkPreset.CVES]: {
+    name: i18n(I18nKey.cves),
+    url: '/cves/',
   },
 }
