@@ -2,7 +2,6 @@
 title: DD Oriented Programming
 published: 2024-09-15
 description: A unique approach to process injection in real-time.
-image: 
 tags: [Linux Internals, Process Injection, Python]
 category: Binary Exploitation
 draft: false
