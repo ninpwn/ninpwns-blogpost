@@ -5,11 +5,10 @@
   <title>Acknowledged CVES</title>
 </head>
 <body>
-  <h1>Acknowledged CVES</h1>
-  <p>The acknowledged CVES that I found over the years.</p>
-
-  <h2>2025</h2>
-  <h3>libzvbi</h3>
+  <h1 style="margin-bottom: 10px;">Acknowledged CVES</h1>
+  <p style="margin-bottom: 10px; margin-top: 10px;">The acknowledged CVES that I found over the years.</p>
+  <h2 style="margin-bottom: 10px; margin-top: 10px;">2025</h2>
+  <h3 style="margin-top: 10px;">libzvbi</h3>
   <ul>
     <li>CVE-2025-2177</li>
     <li>CVE-2025-2176</li>
