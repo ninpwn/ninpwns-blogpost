@@ -35,6 +35,11 @@ export const siteConfig: SiteConfig = {
 
 export const navBarConfig: NavBarConfig = {
   links: [
+    {
+      name: 'About',
+      icon: 'fa6-solid:circle-info',
+      url: '/about/',
+    },
   ],
 }
 
@@ -47,11 +52,6 @@ export const profileConfig: ProfileConfig = {
       name: 'GitHub',
       icon: 'fa6-brands:github',
       url: 'https://github.com/ninpwn/',
-    },
-    {
-      name: 'About',
-      icon: 'fa6-solid:circle-info',
-      url: '/about/',
     },
   ],
 }
