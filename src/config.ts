@@ -35,6 +35,11 @@ export const siteConfig: SiteConfig = {
 
 export const navBarConfig: NavBarConfig = {
   links: [
+    {
+      name: 'About',
+      icon: 'fa6-solid:circle-info',
+      url: 'https://ninpwn.vercel.app/about/',
+    },
   ],
 }
 
