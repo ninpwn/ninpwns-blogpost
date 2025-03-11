@@ -11,5 +11,10 @@ const cvelistPost = await getEntry('spec', 'cves')
 
 const { Content } = await cvelistPost.render()
 ---
-
-<Content />
+<MainGridLayout title={i18n(I18nKey.cves)} description={i18n(I18nKey.cves)}>
+    <div class="flex w-full rounded-[var(--radius-large)] overflow-hidden relative min-h-32">
+            <Markdown class="mt-2">
+                <Content />
+            </Markdown>
+    </div>
+</MainGridLayout>
