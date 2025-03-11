@@ -155,3 +155,11 @@
 .collapsed {
     height: var(--collapsedHeight);
 }
+
+.markdown-content h1, 
+.markdown-content h2, 
+.markdown-content h3 {
+    margin-top: 0.4em; /* Reduce top margin */
+    margin-bottom: 0.2em; /* Reduce bottom margin */
+    line-height: 1.2; /* Adjust line height for better spacing */
+}
