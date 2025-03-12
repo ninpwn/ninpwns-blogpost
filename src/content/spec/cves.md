@@ -8,7 +8,7 @@
   <h1 style="margin-bottom: 10px;">Acknowledged CVES</h1>
   <p style="margin-bottom: 10px; margin-top: 10px;">The acknowledged CVES that I found over the years.</p>
   <h2 style="margin-bottom: 10px; margin-top: 10px;">2025</h2>
-  <h3 style="margin-top: 10px;">libzvbi</h3>
+  <h3 style="margin-top: 10px;">libzvbi (Linux Video Decoding Library)</h3>
   <ul>
     <li>CVE-2025-2177 (Integer Overflow -> Heap Overflow)</li>
     <li>CVE-2025-2176 (Integer Overflow -> Heap Overflow)</li>

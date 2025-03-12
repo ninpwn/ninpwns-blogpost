@@ -58,6 +58,11 @@ export const profileConfig: ProfileConfig = {
       icon: 'fa6-brands:github',
       url: 'https://github.com/ninpwn/',
     },
+    {
+      name: 'LinkedIn',
+      icon: 'fa6-brands:linkedin',
+      url: 'www.linkedin.com/in/dean-erlich-978008166' 
+    }
   ],
 }
 
