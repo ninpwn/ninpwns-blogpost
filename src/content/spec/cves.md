@@ -25,7 +25,13 @@
     <li>CVE-2025-2723 (Integer Overflow -> Heap Overflow)</li>
     <li>CVE-2025-2722 (Integer Overflow -> Heap Overflow)</li>
     <li>CVE-2025-2721 (Integer Overflow -> Heap Overflow)</li>
-    <li>CVE-2025-2720 (Uninitalized Heap Read)</li>
+    <li>CVE-2025-2720 (Uninitialized Heap Read)</li>
+  </ul>
+  
+  <h3 style="margin-top: 10px;">Novastar CX40 Netconfig</h3>
+  <ul>
+    <li>CVE-2025-3008 (Command Injection)</li>
+    <li>CVE-2025-3007 (Stack-Based Buffer Overflow)/li>
   </ul>
 </body>
 </html>
