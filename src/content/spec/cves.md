@@ -31,7 +31,7 @@
   <h3 style="margin-top: 10px;">Novastar CX40 Netconfig</h3>
   <ul>
     <li>CVE-2025-3008 (Command Injection)</li>
-    <li>CVE-2025-3007 (Stack-Based Buffer Overflow)/li>
+    <li>CVE-2025-3007 (Stack-Based Buffer Overflow)</li>
   </ul>
 </body>
 </html>
