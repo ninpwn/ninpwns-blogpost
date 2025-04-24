@@ -6,7 +6,7 @@
 </head>
 <body>
   <h1 style="margin-bottom: 10px;">Acknowledged CVES</h1>
-  <p style="margin-bottom: 10px; margin-top: 10px;">The acknowledged CVES that I found over the years.</p>
+  <p style="margin-bottom: 10px; margin-top: 10px;">The acknowledged CVES that I found over the years. (<a href="https://www.cve.org/CVERecord/SearchResults?query=ninpwn">cve-record</a>)</p>
   
   <h2 style="margin-bottom: 10px; margin-top: 10px;">2025</h2>
   
@@ -33,5 +33,19 @@
     <li>CVE-2025-3008 (Command Injection)</li>
     <li>CVE-2025-3007 (Stack-Based Buffer Overflow)</li>
   </ul>
+
+  <h3 style="margin-top: 10px;">libstb (Graphic Rendering Library)</h3>
+  <ul>
+    <li>CVE-2025-3409 (Stack-Based Buffer Overflow)</li>
+    <li>CVE-2025-3408 (Integer Overflow -> Buffer Overflow)</li>
+    <li>CVE-2025-3407 (Out-of-Bounds Read)</li>
+    <li>CVE-2025-3406 (Out-of-Bounds Read)</li>
+  </ul>
+
+  <h3 style="margin-top: 10px;">libid3tag (Audio File Parsing)</h3>
+  <ul>
+    <li>CVE-2025-43974 (Out-of-Bounds Read)</li>
+  </ul>
+
 </body>
 </html>
